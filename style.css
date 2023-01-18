@@ -1,0 +1,51 @@
+.container{
+    text-align: center;
+    display: flex;
+    justify-content:center;
+}
+button{
+    border: 1px solid #3498db;
+    background-color: rgb(6, 208, 215);
+    padding: 10px 10px;
+    font-size: 20px;
+    font-family: cursive;
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: relative;
+    overflow: hidden;
+    border-radius: 20px;
+    }
+    body{
+        background-color: aquamarine;
+    }
+    .title{
+        font-size: 36px;
+        font-weight:bold;
+        text-align: center;
+        background-color: rgb(6, 208, 215);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-style: italic;
+        border-radius: 20px;
+    }
+    .img{
+        height: 100px;
+        width: 150px;
+    }
+    .main-content{
+        border: 6px solid rgb(6, 208, 215); ;
+        border-radius: 20px;
+        text-align: center;
+        padding: 100px;
+    }
+    p{
+        font-size: 16px;
+        text-align: justify;
+    }
+    .image{
+        justify-content: center;
+        margin-left: 235px;
+        height: 400px;
+        width:300px ; 
+        
+    }
